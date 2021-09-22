@@ -28,6 +28,15 @@
     height: 100%;
 }
 
+#place-time img{
+    max-width: 100%;
+}
+
+#place-time{
+    background-color: #343a40;
+    color: white;
+}
+
 .text-platzi{
     color: #97c93e !important;
 }
